@@ -1,0 +1,6 @@
+[
+    { "id": 1, "name": "John Doe", "email": "john@example.com", "value": 5000, "status": "Active" },
+    { "id": 2, "name": "Jane Smith", "email": "jane@example.com", "value": 2000, "status": "Inactive" },
+    { "id": 3, "name": "Sam Wilson", "email": "sam@example.com", "value": 7000, "status": "Active" },
+    { "id": 4, "name": "Paul Adams", "email": "paul@example.com", "value": 1500, "status": "Inactive" }
+]
